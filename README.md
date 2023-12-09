@@ -1,4 +1,3 @@
-![image](https://github.com/ritikrana0169/QrGeneratorPython/assets/99540875/a6250a26-a952-4efe-ba52-8b2a1dcccc98)# QrGeneratorPython
 In this repo i have created QrGenerator using python flask framework.
 
 User Interface:
