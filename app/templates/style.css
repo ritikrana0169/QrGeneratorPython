@@ -1,0 +1,63 @@
+/* styles.css */
+
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Arial', sans-serif;
+    background: url('path/to/your/background-image.jpg') center/cover no-repeat; /* Replace 'path/to/your/background-image.jpg' with the actual path to your background image */
+    color: #fff; /* Set text color to white for better contrast with the background */
+}
+
+h1 {
+    text-align: center;
+    margin: 50px 0;
+}
+
+form {
+    max-width: 400px;
+    margin: 0 auto;
+    background: rgba(255, 255, 255, 0.8); /* Add a semi-transparent white background to the form */
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+label {
+    display: block;
+    margin: 15px 0 5px;
+}
+
+input {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 15px;
+    box-sizing: border-box;
+}
+
+button {
+    width: 100%;
+    padding: 10px;
+    background-color: #4CAF50;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #45a049;
+}
+
+h2 {
+    text-align: center;
+    margin-top: 30px;
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+    max-width: 100%;
+    height: auto;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
