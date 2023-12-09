@@ -6,11 +6,11 @@ User Interface:
 
 
 How to use:
->> Clone Repository(git clone)
->> open in vsCode.
->> give command in terminal(python app.py)
->> http://127.0.0.1:5000/ (copy this command in your browser)
->> Enter your details
->> Qr code path(app/images)
->> scan Qr
+>> Clone Repository(git clone)<br>
+>> open in vsCode.<br>
+>> give command in terminal(python app.py)<br>
+>> http://127.0.0.1:5000/ (copy this command in your browser)<br>
+>> Enter your details<br>
+>> Qr code path(app/images)<br>
+>> scan Qr<br>
 
